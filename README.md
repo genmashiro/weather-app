@@ -2,6 +2,8 @@
 
 A simple weather application that displays the current weather conditions and 5-day forecast for a specified location. This application utilizes the OpenWeatherMap API to fetch the weather data.
 
+![Weather App](preview.png)
+
 ## Getting Started
 
 To get started with the weather app, follow these steps:
